@@ -1,7 +1,10 @@
 # ascii-art-generator
-C++ program that converts a given image to a grayscale ASCII art
+C++ program that converts a given image to a grayscale ASCII art.
+
+This program is built on pure C++ with the help of OpenCV library.
 # Usage
 Put the exe file and opencv_world450.dll in the same folder
+
 Open an exe file and insert the full path to an image with its name and extension
 Example : 
 ```
