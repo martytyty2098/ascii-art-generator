@@ -1,7 +1,8 @@
 # ascii-art-generator
 C++ program that converts a given image to a grayscale ASCII art
 # Usage
-Open an exe file and insert the full path to an image with its name and extension.
+Put the exe file and opencv_world450.dll in the same folder
+Open an exe file and insert the full path to an image with its name and extension
 Example : 
 ```
 C:\folder_name\some_other_folder\image_name.png (or any other available extension like jpg or bmp)
@@ -40,3 +41,19 @@ Like this :
 ```
 image_name.png -sh
 ```
+# Examples
+**Source image:**
+
+![simpson](https://user-images.githubusercontent.com/108870368/223789561-5baf4af8-5278-48cd-a8c3-3324820dc806.png)
+
+**Program output:**
+
+<img width="979" alt="ascii_simpson" src="https://user-images.githubusercontent.com/108870368/223790077-a1176ada-6c38-428c-9bf1-12c07a86defb.png">
+
+**Source image:**
+
+![adidas](https://user-images.githubusercontent.com/108870368/223790360-d4b9e1c5-c8ae-47bf-8335-5b14919cacc8.jpg)
+
+**Program output:**
+
+<img width="979" alt="Ashampoo_Snap_8 марта 2023 г _21h34m27s_005_" src="https://user-images.githubusercontent.com/108870368/223790468-fc1ab776-a062-4c49-a446-67445149d84d.png">
