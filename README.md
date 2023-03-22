@@ -51,6 +51,10 @@ image_name.png -sh
 
 ![simpson](https://user-images.githubusercontent.com/108870368/223789561-5baf4af8-5278-48cd-a8c3-3324820dc806.png)
 
+**Command:**
+```
+C:\photoshop\MyPictures\simpson.png
+```
 **Program output:**
 
 <img width="979" alt="ascii_simpson" src="https://user-images.githubusercontent.com/108870368/223790077-a1176ada-6c38-428c-9bf1-12c07a86defb.png">
@@ -59,6 +63,10 @@ image_name.png -sh
 
 ![adidas](https://user-images.githubusercontent.com/108870368/223790360-d4b9e1c5-c8ae-47bf-8335-5b14919cacc8.jpg)
 
+**Command:**
+```
+C:\photoshop\MyPictures\adidas.png -sh
+```
 **Program output:**
 
 <img width="979" alt="Ashampoo_Snap_8 марта 2023 г _21h34m27s_005_" src="https://user-images.githubusercontent.com/108870368/223790468-fc1ab776-a062-4c49-a446-67445149d84d.png">
