@@ -1,31 +1,25 @@
 # ascii-art-generator
-C++ program that converts a given image to a grayscale ASCII art.
-
+C++ program that converts a given image to a grayscale ASCII art.\
 This program is built on pure C++ with the help of OpenCV library.
 # Usage
-Download `ascii_generator.zip`
-
-Put the exe file and opencv_world450.dll in the same folder
-
-Open an exe file and insert the full path to an image with its name and extension
+Download `ascii_generator.zip`\
+Put the exe file and opencv_world450.dll in the same folder\
+Open an exe file and insert the full path to an image with its name and extension\
 Example : 
 ```
 C:\folder_name\some_other_folder\image_name.png (or any other available extension like jpg or bmp)
 ```
-After that, you will see ASCII art that will fill the entire console window.
-
+After that, you will see ASCII art that will fill the entire console window.\
 You can resize the console window at any time as you wish, the image will also adapt and resize.
 # Shorthands
 ## `-sh`
-Type `-sh` after image name to produce an ASCII art with sharp edges
-
+Type `-sh` after image name to produce an ASCII art with sharp edges\
 Example :
 ```
 C:\folder_name\some_other_folder\image_name.png -sh
 ```
 ## `-sm`
-Type `-sm` after image name to produce an ASCII art with smooth edges
-
+Type `-sm` after image name to produce an ASCII art with smooth edges\
 Example:
 ```
 C:\folder_name\some_other_folder\image_name.png -sm
